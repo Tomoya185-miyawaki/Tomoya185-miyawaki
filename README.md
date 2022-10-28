@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**Tomoya185-miyawaki/Tomoya185-miyawaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/Tomoya185-miyawaki/Tomoya185-miyawaki/">
+    <img src="https://komarev.com/ghpvc/?username=Tomoya185-miyawaki" alt="tomoya-miyawaki" />
+  </a>
+  <a href="https://twitter.com/wavegr">
+    <img height="20" src="https://img.shields.io/twitter/follow/wavegr?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/Tomoya185-miyawaki">
+    <img height="20" src="https://img.shields.io/github/followers/Tomoya185-miyawaki?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://qiita.com/mk185">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/mk185/posts.svg" />
+  </a>
+  <//qiita.com/mk185">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/mk185/contributions.svg" />
+  </a>
+</p>
