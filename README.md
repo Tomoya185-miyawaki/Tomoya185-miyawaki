@@ -16,5 +16,13 @@
   </a>
 </p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomoya185-miyawaki&theme=onedark)]
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tomoya185-miyawaki&theme=onedark)](https://github.com/Tomoya185-miyawaki/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tomoya185-miyawaki)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomoya185-miyawaki&theme=aura&show_icons=true&count_private=true"
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tomoya185-miyawaki&theme=aura&show_icons=true&count_private=true"
+  </a>
+</p>
