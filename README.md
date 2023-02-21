@@ -16,5 +16,5 @@
   </a>
 </p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomoya185-miyawaki&theme=onedark)](https://github.com/Tomoya185-miyawaki/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomoya185-miyawaki&theme=onedark)]
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tomoya185-miyawaki&theme=onedark)](https://github.com/Tomoya185-miyawaki/github-profile-trophy)
