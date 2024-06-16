@@ -1,9 +1,12 @@
+### Skill
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,sass,bootstrap,js,jquery,vue,nuxtjs,react,nextjs,nodejs,express,ts,prisma,php,laravel,go,mysql,postgres,redis,firebase,supabase,aws,docker,linux,git" />
+
+
+## 📈 Status
+
 <p align="left">
   <a href="https://github.com/Tomoya185-miyawaki/Tomoya185-miyawaki/">
     <img src="https://komarev.com/ghpvc/?username=Tomoya185-miyawaki" alt="tomoya-miyawaki" />
-  </a>
-  <a href="https://twitter.com/wavegr">
-    <img height="20" src="https://img.shields.io/twitter/follow/wavegr?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/Tomoya185-miyawaki">
     <img height="20" src="https://img.shields.io/github/followers/Tomoya185-miyawaki?label=follow&logo=github&style=flat" />
@@ -16,13 +19,9 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tomoya185-miyawaki)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomoya185-miyawaki&theme=aura&show_icons=true&count_private=true"
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tomoya185-miyawaki&theme=aura&show_icons=true&count_private=true"
-  </a>
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomoya185-miyawaki&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Tomoya185-miyawaki" />
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tomoya185-miyawaki&margin-w=5)](https://github.com/Tomoya185-miyawaki/)
